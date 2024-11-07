@@ -13,8 +13,7 @@ Today we started earlier than yesterday; instead of 10:00, we started at 09:30, 
 Today we started the day at 09:30 as usual with our standup meeting.This is where you talk about what you did yesterday and any complaints you would like addressed, of which I had none. We then worked on our blogs for a while, but I had a charging problem with my laptop, but it got sorted. Afterwords, we had a talk about advances in the tech industry, then had a fifteen-minute break. We then had to try to get a marshmallow off the ground using pasta, but my team failed both times, and we had our break for two hours. After the break, we had two hours to make a rollercoaster with tape and paper straws, but we only got the beginning to kind of work. There were also Americans on the blog as employees who came to judge our rollercoasters. Now I am working on the blog.
 
 ## Thursday
-
-
+Again we started the day with a stand up meeting again were we talked about what we did yesterday and then after words at 10:10 we got breakfast in the breaka area after all the other employees were done with their meals so. We had to wait untill afterwords so we didnt steal all of the the food.
 
 ## Friday
 

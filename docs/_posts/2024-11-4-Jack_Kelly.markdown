@@ -63,6 +63,7 @@ After breakfast we had Evan come and talk to us about AI and different uses of i
 After Lunch, Jen had us do a project on sustainability where Cian and i were back at it again to drop another banger. we had an hour to do so and after we sat and watched everybody elses presentations.
 After we went back to work on our blogs for abit and then we would go to listen to someone speak about sports.
 
+ The fella on about sports was a Italian and he spoke about telemetry in xbox racing games. he showed how he could collect the data from the game and display it on his screen.
 
 
 
@@ -70,15 +71,17 @@ After we went back to work on our blogs for abit and then we would go to listen 
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
-**This is the text area where you can enter your blog details for Friday**.
+## Friday
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Today we had standup in the kitchen where we would go straight into coding robots. The robots we would code would be RC cars and we would code the sender and the reciever. It took awhile because there was so many problems that we would have to figure out but in the end we didnt. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+We took our lunch and went to the kitchen where the lads had ordered pizza for us. We continued our pool tournment where I won both of my games and then went back the the bolger suite to do a retrospectiveof the week.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Then it was time to race the robots we made. Robert, Alex and I were on a team and our robot had max speed and only turned left. Then Robert drove it of the table and it shattered like glass. We did a good couple races after that where we came last in every single one but it was fun.
+
+Now the week is over and it was very good. Jen gave us some free things and we were brought back to the office to finsih off the last day of the blog.
+
+
 
 ---
 

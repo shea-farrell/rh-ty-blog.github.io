@@ -98,15 +98,17 @@ Finishing off the blog for today, the Italian, Paulo, gave us a talk via Zoom ab
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
-**This is the text area where you can enter your blog details for Friday**.
+TodaY I came in and we had our stand-up meeting in the canteen as they were setting up something in the Bolger Suite. Today was robot day.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+First we went into the Bolger Suite where a guy called Adam had some motor-powered remote control car things ready for us, we just had to progra them. He showed us a few things and a link to a controller code and a link to a reciever code. I was in a group with Robert and Jack. We were using a weibsite called Microsoft Microbit to write the code. First was had to code the robot to drive left. That went okay. Next was when we had problems. We couldn't get it to turn right even after getting all the code right and checking with Adam. We even tried two differwnt robots and it still didn't work. In the end we managed to get it to turn right but then it wouldn't turn left. That was so strange. All but one other group had the same problem. That group was Jeff, Cian and Adam (Robert's brother Adam, not employee Adam). We also eventually managed to get it to go straight after a while of Robert being lost and me suggesting an idea to Jack. At one point we got all forward, left and right to work but stop was only working sometimes.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Next we had lunch. They gave us free pizza. There were two pineapple, ham and mushroom pizzas... that's gross. Me, along with nearly everyone else had pepperoni pizza. We all sat around in a table and after our pizza we played more pool. I was playing against Robert and I was s close to winning. The black ball was right on the rim of the pocket but I hit the ball weirdly and it flew right off the table. Me, along with everyone else burst into laughter. It was embarassing but in fairness it was quite funny. Robert ended up winning unsurpirsingly.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+After lunch we went back into the Bolger Suite for a restrospective of the week, or as they call it, a sprint, however a sprint is usually two weeks for them. We had to write things on the whiteboard under three categories: start doing, stop doing and continue doing. There were lots of things on the board. Some people hated the ice breakers, some loved them. Some hated the pasta structure thing, some loved it.. Many people agreed that Pat should be hired as he's an intern, and also that Dominik, Jen, David and Sean should all get a raise.
+
+After the restrospective, we went back to the robots and got to race them. My group was calle R.A.J. (Robert, Alex, Jack). We came last with 110 seconds... who could've guessed. We also got 12 penaulties so that added up to 12x5, increasing it by a lot. The winners were Adam, Cian and Jeff's group, unsurprisingly. Riona, Sophia and Kayla's robot even fell off the tabel and smashed once. That was kinda funny. On the second time Robert raced ours, he skipped about half the track by accident and he ended up getting 15 seconds, not including penaulties. Also Pat was watching on video called as he wasn't in work today. There were no prizes for the winners but we all had fun and it was actually a very enjoyable day.
+
+As I'm writing my blog here, Jen gave us all a Red Hat bag with a Red Hat Ruler, a Red Hat squishy ball and a Red Hat pen and pencil. When we leave we have to leave our keytags with Becky at the reception. We're finished earlier than usual today, it's only ten past three.
 
 ---
 

@@ -42,13 +42,5 @@ In the morning we did stand up and talked about what we did the day before. Sean
 
 **This is the text area where you can enter your blog details for Friday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
----
+In the morning at 9:30 we did stand up in the canteen. After that around 10 we started programming robot cars with microbits. We had a sender and a reciever. The sender was the microbit that we used to control the car, and the reciever was the one that was connected to the car. We used radio signals to then control the microbit which controlled the car. After we got our robots set up, we had some races. For lunch we got pizza and then we did more races. We then did a variation of Agile, and then finished our blogs
 

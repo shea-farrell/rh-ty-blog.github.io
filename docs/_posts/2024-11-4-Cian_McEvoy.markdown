@@ -79,15 +79,16 @@ We were given an office tour, we went all around the office and saw the differen
 ## Friday
 ![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
-**This is the text area where you can enter your blog details for Friday**.
+**This is what I did on friday**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+*This morning we did our last stand up and right after we went and started programming a controller and reciever for cars so we could race them*
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+*I was in a group with Adam and Jeffrey and we spent about two hours,. just before we went on our break we had a retrospective where we spoke about what they should add what they should stop doing and what they should continue doing.*
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+*After that we went on our break and because of it being our last day we had Dominos pepporoni pizza and it was so nice once we were finished eating we played some pool.*
 
+*After our lunch break we went into the main conference room and raced our cars my group won every race we did and it was so much fun.*
+
+*At the end of the day we did our blogs and our parents can come in and my mam will be coming in at 4*
 
 

@@ -38,18 +38,15 @@ We had a stand-up in the Bolger Suite at the beginning of the day, as we have do
 
 After lunch, we stayed in our pairs and were asked to make small projects on Rain Gardens. We had to research them and design on using AI, and we used image-generating AI to make mages of rain gardens. We used ChatGPT to research the rain gardens and DeepAI to generate images of rain gardens. We made a short slideshow which we presented to the class, along woth a diagram of a functional rain garden. After making our rain garden projects, we were given time to work on our blogs before a call in the Bolger Suite with a man from Italy called Paulo. Paulo told us about his passion for Formula 1 and how he wanted to combine his work with that. He explained how F1 engineers can track the cars data while it's racing and see if there are any flaws. He wanted to do this but sadly, did not own an F1 car. One day he noticed one of the setting on his son's F1 Xbox game which allows you to track the digital ar in real time while racing, as real F1 cars do. He was able to run the software on his computer and track all the car's data on it as he wished to do. After the call we finished up our blogs again for the day.
 
+
 ## Friday
-![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
 
-**This is the text area where you can enter your blog details for Friday**.
+This morning we had a stand-up in the kitchen instead of the Bolger Suite because they were setting it up for our workshop for the day, robots. We came into the Bolger Suite and we were split into groups of 3 o make our robots. Each group was given 2 microbits and a robot that we would be prgramming for a race at the end of the day. We were shown how to use the software to programme the robots and then given free rein over how to do them. At first my group were very confused and could not figure out how to make the robot work, but Adam helped us and soon we got the robot moving. We experimented with controls and the speed of the robot until we settled on how we wanted the robot to be. Once everyone had their robots working we had a break before we had our retrospective for the week where we gave feedback on our experience and what we would bring in, get rid of, or keep. We commented on our suggestions and Jen was very happy with the feedback. After that we had lunch and we had pizza, it waslovely and we all sat down together and enjoyed it. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After lunch we came back into the Bolger Suite and there was arace course set up on the tables with tape and Mr. Potato Heads set u around it. Jen exlained the rules to us clearly, if you drive outside the lines or hit any of the Mr. Potato Heads it was a 5 second penalty. My group went first and sadly lost our race. The group that won our race and the group that won the other competed in a final. Ater the final was won, the losing teams raced for 3rd, our group won. We played a few more races for fun andsadly, won none of those either. Though we were unsuccesful in the races, I really enjoyed prgramming and racing our robot cars.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+![microbit](https://github.com/user-attachments/assets/db490238-1369-4613-9e62-fb8702d32a5e)
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 ---
 

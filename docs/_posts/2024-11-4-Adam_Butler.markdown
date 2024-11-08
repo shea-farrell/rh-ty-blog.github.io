@@ -119,17 +119,20 @@ Paulo showed us a video of him working on a small project with his son by readin
 
 ---
 ## Friday
-![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
+![Red Hat Office](https://cdn.sanity.io/images/ajwvhvgo/production/dbc7a8e2d9e21015787f4dab1a84e731ae192ba9-800x326.png?q=95)
 
-**This is the text area where you can enter your blog details for Friday**.
+**Friday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Friday, we developed robots using microbits. Myself, Cian, and Jeff teamed up and developed a robot car, which we raced. We learned how to use a simple programming language that used an input from a microbit and a receiver to control the car. Our bot later won both races against other teams and set the fastest lap time. LED lights were also included on our bot for left, right, forward, and stop signals on the remote and on the car.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+During the day we also had pizza and gave back feedback in our retrospective session with Gen about what we liked, disliked, and what we wanted more of for the next TY group so Red Hat can improve the TY program more.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+**What i liked**
+* GitHub blogs
+* Roller Coasters project
+* Micro Bit car project
+* Pool tournement
+
 
 ---
 

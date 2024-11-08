@@ -13,10 +13,10 @@ Today we started earlier than yesterday; instead of 10:00, we started at 09:30, 
 Today we started the day at 09:30 as usual with our standup meeting.This is where you talk about what you did yesterday and any complaints you would like addressed, of which I had none. We then worked on our blogs for a while, but I had a charging problem with my laptop, but it got sorted. Afterwords, we had a talk about advances in the tech industry, then had a fifteen-minute break. We then had to try to get a marshmallow off the ground using pasta, but my team failed both times, and we had our break for two hours. After the break, we had two hours to make a rollercoaster with tape and paper straws, but we only got the beginning to kind of work. There were also Americans on the blog as employees who came to judge our rollercoasters. Now I am working on the blog.
 
 ## Thursday
-
-
+Again we started the day with a stand up meeting again were we talked about what we did yesterday and then after words at 10:10 we got breakfast in the breaka area after all the other employees were done with their meals so. We had to wait untill afterwords so we didnt steal all of the the food. After eating breakfast we had two talks on AI and how it is being used. We got to help update an AI model called by feeding it new information and after this we got our break were we played pool until 14:00. After our break we had to use AI to help us design a rainarden and find out what a rain garden is. Then at 15:30 we worked on our blogs until 15:55 were we had a zoom call with a person who is in Italy.
 
 ## Friday
+Today was our last day st Red Hat and we started it off by doing the stand up as usual exept it was in the break area because the usual meeting room was being set up for the robots. After our stand up we went the the meeting areaand we got split up into four groups of three and we had to program a car robot using scratch and we had two hours to do this. After the two hours we got our break were we had pizza. There was pepperoni and Hawain,fortunatly one of the Hawain pizzas wasnt even touched but nearly all of the pepperoni was gone. After the break we had to do a retrospective of the week and say what toget rid of,to add and to continue doing. We had another short break after that and then we had to do races with our cars. My team won every race so we were ovbisouly the best team.
 
 
 

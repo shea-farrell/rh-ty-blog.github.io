@@ -54,17 +54,9 @@ And how they are involved with formula 1
 
 ---
 ## Friday
-![Red Hat Office](https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?resize=1200%2C630 "Github")
-
-**This is the text area where you can enter your blog details for Friday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Today is unfortunately the last time I will be updating this blog. I have to say I'm definitely going to miss it.
+We had to stand up again this morning and then got into programming our own robots, and we raced them against each other, which was great fun. We also had a meeting where we talked about how we thought the work experience went and what they could change, and we got free stickers!! then for lunch they got us pizza, which was really good.
+Over all, I really loved this experience and found it very educational, and the staff here are lovely and have a great sense of humor.
 
 ---
 

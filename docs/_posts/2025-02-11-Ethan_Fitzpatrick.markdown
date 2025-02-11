@@ -12,8 +12,34 @@ categories: jekyll update
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
 
+## hello!
+
+> [play ror2]
+
+
+- [x] yess
+
+- [ ] no
+
+|        xvcd   |  vfd        |
+|-----------|----------|
+|    hwdwd       |      edjwdkw    |
+|       dewdw    |   dewdew       |
+|        ewd   |       ewdewdw   |
+|        deewdwdw   |   dewdewd       |
+|         edewd  |       dewdewdw   |
+
+![image](https://media.tenor.com/I7__TM6dAwoAAAAj/emoji-shock.gif)
+
+![image](https://media.tenor.com/bslbhJjdX4EAAAAj/shocked-surprised-emoticon-emoticon.gif)
+
+![image](https://media.tenor.com/qlLLECAnPZAAAAAi/me-when-i-smell-cyanide-cyanide.gif)
+
+![image](https://media.tenor.com/sUgOoWn3e2MAAAAj/chuqui-nerd.gif)
+
 
 ## Monday
+
 
 ---
 

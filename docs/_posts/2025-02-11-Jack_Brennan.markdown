@@ -11,9 +11,26 @@ categories: jekyll update
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
+  
+## hello
+* im here hi
+ - hi
+>read homestuck
+
+|hello |hi|
+|------|------|
+
+  [GitHub](https://github.com)
 
 
-## Monday
+![image](https://github.com/user-attachments/assets/d2e5faab-aca5-4011-bd72-28da950f9c5c)
+
+- [x]
+- [  ]
+
+
+
+ ## Monday
 
 ---
 
@@ -114,3 +131,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices d
 Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 ---
+
+![image](https://github.com/user-attachments/assets/5a3ac1b0-d2a2-4a20-b242-b95956e89886)

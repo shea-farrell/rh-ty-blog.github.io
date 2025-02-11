@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title:  "Christopher Murphy"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update

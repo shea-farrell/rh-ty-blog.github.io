@@ -12,17 +12,18 @@ categories: jekyll update
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate.
 
  ## Monday
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate.
+
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
 **This is the text area where you can enter your blog details for Monday**.
 
-This was the first day of redhat, I had a decent bit of fun and enjoyed it all throughout
+This was the first day of redhat, I had a decent bit of fun and enjoyed it all throughout. At the start of the day we had been toured around the building and shown where our desks were
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 

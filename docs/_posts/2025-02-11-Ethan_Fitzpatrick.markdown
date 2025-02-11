@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Ethan Fitzpatrick"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---

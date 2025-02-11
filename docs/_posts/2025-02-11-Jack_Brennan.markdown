@@ -5,14 +5,8 @@ date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
 
-## Welcome To Your Blog!
-
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate.
+## Welcome To my blog!!!!
+my names jack and i think this place is really cool (mainly due to the abundance of sweets but thats besides the point) and ive really enjoyed it here, so m here to tell you what happened throughout all this week
 
  ## Monday
 
@@ -23,19 +17,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices d
 
 **This is the text area where you can enter your blog details for Monday**.
 
-This was the first day of redhat, I had a decent bit of fun and enjoyed it all throughout. At the start of the day we had been toured around the building and shown where our desks were
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+This was the first day of redhat, I had a decent bit of fun and enjoyed it all throughout. At the start of the day around 10-10:30 we had all introduced ourselves and played some short games such as:
+- two truths and a lie
+- we had to order ourselves from 1-7 based on a number given to us without talking
+- the same as the one above except with our birthdays
+afterwards we had been toured around the building and shown where our desks were after that we were sat in the boardroom and learned a bit about agile and bash, One of the activitys we done for 
+not too much happened today 
 
 
 ---
 
 
-## Tuesday
+## Tuesday (yayy)
 
 
 ---
@@ -45,7 +38,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+hi, its me jack, back again today i dont really rember to much but i do know we learned to do shit on github as you can see (i wrote monday just like a minute before this lol) 
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 

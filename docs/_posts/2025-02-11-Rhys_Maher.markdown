@@ -11,6 +11,7 @@ categories: jekyll update
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
+* njhjh
 
 
 ## Monday

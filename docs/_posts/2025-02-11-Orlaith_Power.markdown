@@ -11,8 +11,28 @@ categories: jekyll update
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
+  
+## Hello!!!!!
+- Bullet point test
+- 1 2 3
 
+Well?
+- [x] yes
+- [ ] definitely 
+- [ ] absolutely 
 
+Table
+
+|Header|Header|
+|------|------|
+|Row 1 |Data 1|
+|Row 2 |Data 2|
+| Info | Info |
+| '-'  | 0_o  |
+
+![image](https://i.natgeofe.com/n/4cebbf38-5df4-4ed0-864a-4ebeb64d33a4/NationalGeographic_1468962_3x4.jpg)
+
+![image](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif)
 ## Monday
 
 ---

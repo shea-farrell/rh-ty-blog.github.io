@@ -11,7 +11,6 @@ categories: jekyll update
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
-* njhjh
 
 
 ## Monday
@@ -19,7 +18,7 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://i.redd.it/izu384rlak1b1.jpg)
 
 **This is the text area where you can enter your blog details for Monday**.
 

@@ -37,6 +37,9 @@ This is a table
 
 ![GitHub Logo](../images/Untitled.jpg)
 
+![image](https://github.com/user-attachments/assets/bf2d13a6-2701-476a-b2bb-fc2df51bff25)
+![image](https://github.com/user-attachments/assets/c42057cf-7c7e-41e2-9f6d-7bb4fcccb5fd)
+
 ## Monday
 
 ---

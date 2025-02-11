@@ -16,6 +16,16 @@ categories: jekyll update
 
 > [play ror2]
 
+![image](https://github.com/user-attachments/assets/e95151fd-408f-4dfd-8029-7de61d9ead56)
+
+![image](https://github.com/user-attachments/assets/31063629-d574-4481-ac68-710d01dd54c7)
+
+Best character btw!!!^^
+
+![image](https://github.com/user-attachments/assets/726823cf-eb21-4d7c-a4ea-d3a41fc412d9)
+
+Gup my beloved <3
+
 
 - [x] yess
 

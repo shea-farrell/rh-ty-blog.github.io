@@ -21,8 +21,9 @@ This was the first day of redhat, I had a decent bit of fun and enjoyed it all t
 - two truths and a lie
 - we had to order ourselves from 1-7 based on a number given to us without talking
 - the same as the one above except with our birthdays
-afterwards we had been toured around the building and shown where our desks were after that we were sat in the boardroom and learned a bit about agile and bash, One of the activitys we done for 
-not too much happened today 
+  
+afterwards we had been toured around the building and shown where our desks were after that we were sat in the boardroom and learned a bit about agile and bash, the last activity we had done for today had us using mr potato heads to simulate what itd be like to be developers.
+so overall not too much happened today.
 
 
 ---
@@ -38,14 +39,13 @@ not too much happened today
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-hi, its me jack, back again today i dont really rember to much but i do know we learned to do shit on github as you can see (i wrote monday just like a minute before this lol) 
+hi, its me jack, back again, i dont really rember very much from today but i do know we learned to do shit on github as you can see (i wrote monday just like a minute before this lol) 
+We learned to use different markdown features such as putting an image on here and making bulletpoints
+there was some technical difficultys today due to an influx of people coming in thus making us lose our desks but the reason for hat was because the office was having pizza that day,
+ though i dont like pizza i might have a slice of cheese pizza sometimes.
+ lastly we did a bit more of the blog and some of the people here had shared their experience in college with us and that was the end of today byeeeee
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+sidenote: you guys should read homestuck whoever is reading this
 
 ---
 
@@ -60,7 +60,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Jack is back and we started today with a stand up and writing a bit of our blog
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 

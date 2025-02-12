@@ -13,13 +13,12 @@ categories: jekyll update
 * Or, you can always create new entries as you see fit by following the guides on this site.
 
 
-
 ## Monday
 
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://i.redd.it/izu384rlak1b1.jpg)
 
 **This is the text area where you can enter your blog details for Monday**.
 

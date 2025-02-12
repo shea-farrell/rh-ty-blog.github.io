@@ -18,7 +18,7 @@ categories: jekyll update
 This is a test of the markdown code
 
 
-![Red Hat Office](https://static.wikia.nocookie.net/spongebob/images/b/b1/SpongeChovy_065.png/revision/latest/scale-to-width-down/1000?cb=20231123061928 "Red Hat Waterford")
+![Red Hat Office](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Krusty_Krab.png/1200px-The_Krusty_Krab.png "Red Hat Waterford")
 
 **This is the text area where you can enter your blog details for Monday**.
 
@@ -62,7 +62,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat Tys](https://static.wikia.nocookie.net/new-game/images/8/88/NewGame%21Episode3OfficeCubicles.jpg/revision/latest/scale-to-width-down/1000?cb=20200501174902 "Red Hat TYs")
+![Red Hat Tys](https://animebird.net/wp-content/uploads/2017/01/d9uyshm.jpg "Red Hat TYs")
 
 **This is the text area where you can enter your blog details for Wednesday**.
 

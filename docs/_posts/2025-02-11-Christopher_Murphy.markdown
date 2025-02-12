@@ -6,12 +6,9 @@ categories: jekyll update
 ---
 
 
+![Red Hat Office](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/The_Krusty_Krab.png/1200px-The_Krusty_Krab.png "Red Hat Waterford")
+=======
 ## Monday
-
-This is a test of the markdown code
-
-
-![Red Hat Office](https://static.wikia.nocookie.net/spongebob/images/b/b1/SpongeChovy_065.png/revision/latest/scale-to-width-down/1000?cb=20231123061928 "Red Hat Waterford")
 
 
 ---
@@ -36,17 +33,9 @@ We started on this very blog today (hence why mondy is just a picture of the kru
 ---
 
 
-![Red Hat Tys](https://static.wikia.nocookie.net/new-game/images/8/88/NewGame%21Episode3OfficeCubicles.jpg/revision/latest/scale-to-width-down/1000?cb=20200501174902 "Red Hat TYs")
+![Red Hat Tys](https://animebird.net/wp-content/uploads/2017/01/d9uyshm.jpg "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+we did a "team building exersise" where we had to build a roller coster out of straws, did not enjoy it
 
 
 ---

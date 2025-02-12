@@ -13,9 +13,7 @@ my names jack and i think this place is really cool (mainly due to the abundance
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
-
-**This is the text area where you can enter your blog details for Monday**.
+![image](https://www.homestuck.com/images/storyfiles/hs2/00328.gif)
 
 This was the first day of redhat, I had a decent bit of fun and enjoyed it all throughout. At the start of the day around 10-10:30 we had all introduced ourselves and played some short games such as:
 - two truths and a lie

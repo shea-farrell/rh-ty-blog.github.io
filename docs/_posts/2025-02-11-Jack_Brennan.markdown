@@ -10,7 +10,7 @@ my names jack and i think this place is really cool (mainly due to the abundance
 my hobbies include being lazy, gaming and reading (homestuck)
 
 accurate picture of me -->
-![image](https://github.com/user-attachments/assets/5a3ac1b0-d2a2-4a20-b242-b95956e89886) 
+![image](https://static.wikia.nocookie.net/vsbattles/images/d/d2/88C5679A-34AF-452C-8F74-0D0253C78EBF.png/revision/latest?cb=20191024125242) 
 
  ## Monday
 

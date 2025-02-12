@@ -18,7 +18,7 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://scontent-dub4-1.xx.fbcdn.net/v/t39.30808-6/462069260_1105676538225200_5523068412846430008_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=1X6dZ6BAysQQ7kNvgHpTm_0&_nc_zt=23&_nc_ht=scontent-dub4-1.xx&_nc_gid=ABu59ZECBhl9fJUMOoNEzFY&oh=00_AYC0x72Fm4Tz799ZVbsZ-E1x6jHVpBq-w5Cu71qq4qEgRA&oe=67B11E0D)
 
 **This is the text area where you can enter your blog details for Monday**.
 

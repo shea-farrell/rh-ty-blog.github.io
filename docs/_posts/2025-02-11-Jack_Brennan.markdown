@@ -12,8 +12,9 @@ categories: jekyll update
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate.
 
-## Monday
+ ## Monday
 
 ---
 
@@ -22,7 +23,7 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+This was the first day of redhat, I had a decent bit of fun and enjoyed it all throughout. At the start of the day we had been toured around the building and shown where our desks were
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
@@ -114,3 +115,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices d
 Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 ---
+
+![image](https://github.com/user-attachments/assets/5a3ac1b0-d2a2-4a20-b242-b95956e89886)

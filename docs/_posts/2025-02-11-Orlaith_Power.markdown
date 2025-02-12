@@ -11,63 +11,29 @@ categories: jekyll update
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
-  
-## Hello!!!!!
-- Bullet point test
-- 1 2 3
 
-Well?
-- [x] yes
-- [ ] definitely 
-- [ ] absolutely 
+## Monday 
 
-Table
-
-|Header|Header|
-|------|------|
-|Row 1 |Data 1|
-|Row 2 |Data 2|
-| Info | Info |
-| '-'  | 0_o  |
-
-![image](https://i.natgeofe.com/n/4cebbf38-5df4-4ed0-864a-4ebeb64d33a4/NationalGeographic_1468962_3x4.jpg)
-
-![image](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif)
-## Monday
-
----
+![image](https://www.hasbro.com/common/productimages/en_US/6E58B353EE6C44E1BCF3589945B4E078/fa9fb5e900fdebc3fea1c21f42a7f02d70ca3178.jpg)
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
-Today was the first day of the work expereince. The first thing we did was go on a tour of the office. Then we took a short break and listened to a talk on teamwork and team dynamics. 
+Today was the first day of the work experience. The first thing we did was go on a tour of the office. Then we took a short break and listened to a talk on teamwork and team dynamics. 
 Then we did an excersise where we split into two groups and both groups got a Mr Potato Head. 
-My groups theme was superheroes so we made 
+My groups theme was superheroes so we made an iron man, a spiderman and a transformer potato head. 
+We had some extra time at the end so I also made a disney themed one. That one was probably my favourite
 
 ---
-
 
 ## Tuesday
 
-
----
-
-
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
-
-**This is the text area where you can enter your blog details for Tuesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+![image](https://logolook.net/wp-content/uploads/2022/12/GitHub-Logo.png)
 
 
----
+
+We started the day with our first stand up meeting where we would report any issues or concerns we had from the previous day. After that we got out our laptops and leanred a few commands to do on the terminal. We then set up a Github account and started on our own blogs. 
+We had to learn how to add text, images, bullet points and tables. 
+After lunch we listened to a talk on college. They talked about things like doing coursework and making connections in college and I found this talk the most interesting thing today.
 
 
 ## Wednesday
@@ -78,16 +44,10 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+We started the day with another stand up where we reported any concerns or issues from the previous day. After that we did an excercise where we made a rollercoaster with paper straws, sheets of paper and tape. The rollercoaster had to have a loop in it.
+For this task, we had to split into two groups. My group's rollercoaster had a horizontal loop instead of a vertical one and I think it turned out really well. My job was to make a box out of paper and straws that the ball would fall in at the end. 
 
 ---
 

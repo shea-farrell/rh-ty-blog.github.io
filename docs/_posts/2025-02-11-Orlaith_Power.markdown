@@ -42,12 +42,14 @@ After lunch we listened to a talk on college. They talked about things like doin
 ---
 
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
-
-
+![image](https://www.cleverpatch.com.au/Images/ProductImages/Large/Main_BeadRunRollercoaster.jpg)
 
 We started the day with another stand up where we reported any concerns or issues from the previous day. After that we did an excercise where we made a rollercoaster with paper straws, sheets of paper and tape. The rollercoaster had to have a loop in it.
 For this task, we had to split into two groups. My group's rollercoaster had a horizontal loop instead of a vertical one and I think it turned out really well. My job was to make a box out of paper and straws that the ball would fall in at the end. 
+
+After lunch we did another engineering task where we had to build a structure with spaghetti and sellotape and we would put a marshmallow on top.
+Whichever group's marshmallow was highest won. My group's first try didn't go well and it fell apart but we got a second go. That one went much better but we were 1cm shorter than the other team so we lost. 
+
 
 ---
 

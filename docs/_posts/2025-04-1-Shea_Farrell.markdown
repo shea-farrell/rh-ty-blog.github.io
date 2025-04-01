@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Shea Farrell blog"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
@@ -19,10 +19,11 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://i.etsystatic.com/25722344/r/il/c6d3dd/4722472739/il_fullxfull.4722472739_6euc.jpg)
+
 
 **This is the text area where you can enter your blog details for Monday**.
-
+Today I learned how to be agile and we put this to use and were put into groups and told a theme and had to make a potato head with that theme and this helped me use the agile skills I learned from the presentation beforehand, we also did a ice breaker in the morning and we got to talk to each other and learn a bit about the interns. I found the potato head excercise fun and it helped me put to use the agile skills
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 

@@ -33,6 +33,7 @@ After the icebreakers, we were given a tour of the office. This helped us unders
 Then we had the Agile talk and we compleated the activity afterwards using poatoe heads. I was in group C and we had to make marvel theamed potatoe heads.
 
 Lastly we tried signing into our computours but unfourtionatly the wifi wouldn't connect to my computer :[
+
 ---
 
 ![logo](https://www.exclusive-networks.com/bg/wp-content/uploads/sites/45/2021/09/red-hat-Logo.png)

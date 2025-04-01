@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Nehal's Blog"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
@@ -11,6 +11,7 @@ categories: jekyll update
 * If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
+* 
 
 
 ## Monday
@@ -23,15 +24,15 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Monday we
+* Played 20 questions as an ice breaker.
+* Got a tour of Red Hat.
+* Had a health and safety talk.
+* Learned about agile and how to put it into practice by making potato heads.
+* Got set up on the laptops and connected to the internet.
+* Got to know each other better.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
+![Mr. Potato Head](https://media.gettyimages.com/id/1153509172/photo/mr-potato-head-all-toys-are-from-jerrys-toys-hobbies-of-st-anthony.jpg?s=612x612&w=gi&k=20&c=LBfrvyEnHvznBua-0MAPVtkVtufN8cS6Ywg87nZuFVI=) 
 ---
 
 

@@ -15,11 +15,12 @@ categories: jekyll update
 
 ## Monday
 
-
+We started by getting to know each other we played some games talking about health and safety in the office.
+On lunch we were playing pool and Mario Cart on the Switch.
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://assets-prd.ignimgs.com/2024/05/15/acshadows-1715789601294.jpg)
 
 **This is the text area where you can enter your blog details for Monday**.
 

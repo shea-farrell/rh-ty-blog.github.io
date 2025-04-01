@@ -1,17 +1,9 @@
 ---
-layout: post
-title:  "Sample Blog Entry"
-date:   2025-02-5 12:58:15 +0100
-categories: jekyll update
+Layout: Post
+Title:  "Aodhán's Blog"
+Date:   2025-04-1 9:53:15 +0100
+Categories: jekyll update
 ---
-
-## Welcome To Your Blog!
-
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
-
 
 ## Monday
 
@@ -19,18 +11,14 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+![Red Hat Office](https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-enmr1e_871e8eac.jpeg?region=0,0,450,450)
 
-**This is the text area where you can enter your blog details for Monday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+* We got introduced to our co-students, the interns looking after us and some of the Redhat Team.
+* We did some icebreaker activities at the start of the day to get to know each other more.
+* We received a tour of the office and saw all the facilities available, and received a health and safety talk.
+* We learned about AGILE and put some of the principles into practice in an activity, using Mr. Potato Heads
+  
+At the end of the day, we got set up on the laptops provided for us, and logged in for the first time.
 
 ---
 
@@ -49,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices d
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis.
 
 Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 

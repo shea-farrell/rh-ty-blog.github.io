@@ -15,7 +15,7 @@ categories: jekyll update
 
 ## Monday
 
-https://cyberskillslive.com/schoolsireland/#activities-block
+
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  Kate Gillen Blog
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
@@ -12,26 +12,30 @@ categories: jekyll update
 * Feel free to add images too! You need only replace the placeholder image links!
 * Or, you can always create new entries as you see fit by following the guides on this site.
 
+---
 
 ## Monday
-
 
 ---
 
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
+---
+** Blog details for Monday **.
 
-**This is the text area where you can enter your blog details for Monday**.
+On Monday at 10 AM, I started my Transition Year (TY) work placement along with eight other students. The day was structured to help us settle in, get to know each other, and learn about the company.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+We began the day with icebreaker activities. These helped us become more comfortable with each other and made it easier to communicate as a group the activities included 20 questions and 2 truths and 1 lie
+Office Tour
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+After the icebreakers, we were given a tour of the office. This helped us understand the layout of the workplace and where different teams worked.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Then we had the Agile talk and we compleated the activity afterwards using poatoe heads. I was in group C and we had to make marvel theamed potatoe heads.
 
+Lastly we tried signing into our computours but unfourtionatly the wifi wouldn't connect to my computer :[
+---
 
+![logo](https://www.exclusive-networks.com/bg/wp-content/uploads/sites/45/2021/09/red-hat-Logo.png)
 ---
 
 
@@ -49,7 +53,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices d
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 
 * Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis.
+* # hello! 
 
 Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 

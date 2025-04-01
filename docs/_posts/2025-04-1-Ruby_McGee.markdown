@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sample Blog Entry"
+title:  "Ruby's blog entry"
 date:   2025-02-5 12:58:15 +0100
 categories: jekyll update
 ---
@@ -23,13 +23,16 @@ categories: jekyll update
 
 **This is the text area where you can enter your blog details for Monday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+On Monday morning we began with an icebreaker game to become familiar with the other students and interns names. After a brief introduction to the company from James, we were given a tour of the building from Jen. We got to see all the rooms and offices and then were given some time to look around ouselves. We met back fo a health and safety brief and then had lunch in the cafeteria. After lunch, we were given an Agile presentation from George and were then split into groups to put what we learned into practice. We built some spectacular MrPotato heads. Finally, we got set up and familiar with the laptops, and  day 1 came to an end.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Agile helped us learn:
+* That we need better communication during teamwork.
+* That we should split our work evenly to become more efficient.
+* That we should make sure everybody is clear about our plan of action.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+![image](https://github.com/user-attachments/assets/f8d6e5d4-b79a-4802-bab4-cf2ba66291e0)
+
+Overall, Monday was an eductaional and worthwhile day getting introduced and familiar with RedHat and what goes on behind the scenes. 
 
 
 ---

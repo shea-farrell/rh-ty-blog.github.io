@@ -38,6 +38,9 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 
 ## Tuesday
 
+Today learned about Python, We were typing codes and creating games like "Rock, Paper, Scissor".
+We also learned about Nano it's the program that tells the computer that you want to create a game like "Rock, Paper-
+,Scissors and more.
 
 ---
 

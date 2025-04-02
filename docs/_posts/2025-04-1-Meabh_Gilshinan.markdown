@@ -21,29 +21,22 @@ categories: jekyll update
 **Monday blog!**
 
 
- We came in at ten and learned about Red Hat, health and safety and got a tour of the office. We learned about agility and then went for lunch.We played mario-kart and pool in the canteen.At the end of the daywe got set up on the laptops. It was so fun!
- We used agility teamwork to make potato heads,we made a space one!
+ We came in at ten and learned about Red Hat, health and safety and got a tour of the office. We learned about agility and then went for lunch.We used agility teamwork to make potato heads, we made a space one. We played mario-kart and pool in the canteen.At the end of the daywe got set up on the laptops. It was so fun!
   
 ---
 
 
-## Tuesday
+## Tuesday ##
 
 
 ---
 
 
-![Red Hat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4eK-k-kMqPIzRyI32vEuSysVmbjTphWHLtQ&s)
+![Red Hat](https://cdn.hashnode.com/res/hashnode/image/upload/v1637422966499/jx6h36yHp.jpeg)
 
-**This is the text area where you can enter your blog details for Tuesday**.
+**Tuesday blog!**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+At the start of the day we did our first stand-up where we explained what we did the day before.After we learned how to sign into Github and made our blogs explaining what we've done each day.After we finished our blogs for monday we made a rock-paper-scissors game in python wich took up most of the day and after lunch we cracked passwords.We did much more than the first day which was good, the python was fun!
 
 
 ---

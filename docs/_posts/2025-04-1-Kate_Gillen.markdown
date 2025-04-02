@@ -21,7 +21,7 @@ categories: jekyll update
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 ---
-** Blog details for Monday **.
+** Blog details for Monday **
 
 On Monday at 10 AM, I started my Transition Year (TY) work placement along with eight other students. The day was structured to help us settle in, get to know each other, and learn about the company.
 
@@ -48,18 +48,19 @@ Lastly we tried signing into our computours but unfourtionatly the wifi wouldn't
 
 ![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Tuesday**.
+**Blog details for Tuesday**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Yesterday was my second day of work experience at Red Hat, and it was another exciting and insightful day. I arrived at 9:15 AM, and we started by setting up our GitHub accounts to write our Monday blog post, getting familiar with version control and the open-source workflow. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis.
-* # hello! 
+After that, we jumped into learning Python, exploring its basics and we looked at the 4 different data types integers, floats, Boolean, and strings we also did a number of exercise codes.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+One of the most interesting parts of the day was working on password cracking, which gave us a glimpse into cybersecurity and ethical hacking. It was fascinating to see how weak passwords can be exploited and why strong security measures are essential.
 
+Overall the day was a great learning experience and I loved doing new things.
 
+---
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s)
+![logo](https://miro.medium.com/v2/resize:fit:1125/1*dDNpLKu_oTLzStsDTnkJ-g.png)
 ---
 
 

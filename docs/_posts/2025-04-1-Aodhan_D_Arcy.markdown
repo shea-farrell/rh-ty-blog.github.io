@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aodhán's Blog"
-date:   2025-02-5 9:53:15 +0100
+date:   2025-02-5 12:55:15 +0100
 categories: jekyll update
 ---
 
@@ -29,17 +29,14 @@ At the end of the day, we got set up on the laptops provided for us, and logged 
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Red Hat](https://149860134.v2.pressablecdn.com/wp-content/uploads/pythoned.png))
 
-**This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+* On Tuesday, we set up a github account, allowing us to create this blog.
+* We had a presentation on Python, starting to learn the basics of Python and write some rudimentary lines of code.
+* After learning the basics, we created a Rock, Paper, Scissors game using what we learned.
+* At the end of the day, we had a workshop on cybersecurity, where we learned to crack passwords.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis.
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---

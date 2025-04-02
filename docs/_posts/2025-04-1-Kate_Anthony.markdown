@@ -41,17 +41,18 @@ categories: jekyll update
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Red Hat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUhO67Hh_oYsixbQBrdLqhzvBk5unFqNmdFw&s)
 
-**This is the text area where you can enter your blog details for Tuesday**.
+**Tuesday at RedHat**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Today at RedHat we did lots of coding and other activities
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+* We started off our day by writng pur blogs using github.
+* we then did some actiities learing how to code using python and we made a RPS game.
+* We then had lunch and got to relax in the cafeteria and have the free food.
+* After lunch we did breaking a million codes excersise on the laptops.
+* Then we finsihed and went home for the day.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---

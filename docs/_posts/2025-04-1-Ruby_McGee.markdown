@@ -48,13 +48,17 @@ Overall, Monday was an eductaional and worthwhile day getting introduced and fam
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After our stand up on Tuesday morning, in which we each ran through an overview of what we completed on Monday and would be completing for the day ahead, we began on Github. We got logged in and began our write up blogs, starting with a recap of Monday. After this, we were given a presentation about the basics of python coding and began creating our own codes. We built a rock, paper, scissor game and a simple conversation with the computer. Lastly, we used our knowledge of python to complete a cyber security game, which gave us the task of cracking 1 million passwords.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Tuesday helped me learn:
+* That even the 'simplest' codes require lots of effort.
+* How easy it is to make a mistake while coding, and how specific and careful you must be.
+* The basics of how hackers work.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+  ![image](https://github.com/user-attachments/assets/4c741f43-9ad4-446e-a21f-d18300cceae4)
+
+
+In conclusion, Tuesday was a really enjoyable and practical day, I feel confident in the basics of python coding and am excited to try more difficult versions later on in the week.
 
 
 ---

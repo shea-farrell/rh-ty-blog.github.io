@@ -6,12 +6,7 @@ categories: jekyll update
 ---
 
 ## Welcome To Your Blog!
-
-* The below text is all placeholder just to get you familiar with the layout of markdown (md) files.
-* If you'd like more detailed instructions, go to the guide page, otherwise, delete the placeholder text and add your own.
-* Feel free to add images too! You need only replace the placeholder image links!
-* Or, you can always create new entries as you see fit by following the guides on this site.
-* 
+ 
 
 
 ## Monday
@@ -22,37 +17,31 @@ categories: jekyll update
 
 ![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
 
-**This is the text area where you can enter your blog details for Monday**.
+---
 
-On Monday we
-* Played 20 questions as an ice breaker.
-* Got a tour of Red Hat.
-* Had a health and safety talk.
-* Learned about agile and how to put it into practice by making potato heads.
-* Got set up on the laptops and connected to the internet.
-* Got to know each other better.
+Monday was my first day of the Red Hat TY programme. We started of the day with a few ice breakes. We Played 20 questions and 2 truths and a lie. We then got a tour of the Red Hat building. We were given a health and safety presentation and then learned about agile and how to put it into practice by building potato heads. My group made a wild west themed one. After lunch we got set up on the laptops and connected to the internet. Overall i really enjoyed my first day at Red Hat and really liked getting to know everyone better.
 
-![Mr. Potato Head](https://media.gettyimages.com/id/1153509172/photo/mr-potato-head-all-toys-are-from-jerrys-toys-hobbies-of-st-anthony.jpg?s=612x612&w=gi&k=20&c=LBfrvyEnHvznBua-0MAPVtkVtufN8cS6Ywg87nZuFVI=) 
+  ---
+![mr. potato head](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnFj1-RtWCsCR7XiffwLU-qemBk-Mql8OKkg&s)
+
 ---
 
 
 ## Tuesday
 
+---
+
+![hacker](https://www.wgu.edu/blog/2019/08/ethical-hacking-how-fits-with-cybersecurity/_jcr_content/root/container/imageandtext.coreimg.85.800.jpeg/1699490509969/grey-hat-hacking.jpeg)
 
 ---
 
+Tuesday was my second day of the Red Hat TY Programme. We started the day getting set up on github and wrote our blog for Monday. We were then taught about Python and were given a basic understanding of it. 
+We learned how to print the phrase 'Hello World' and our name. We also made a rock, paper, scissors game. After lunch we continued on Python then started doing some stuff related to cybersecurity. We were cracking 'a million passwords'. this was a game where we used a python code to crack a million passwords. Overall my second day at Red Hat was very fun and I learned a lot of new things.
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+---
 
-**This is the text area where you can enter your blog details for Tuesday**.
+![rock, paper, scissors](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMJMqL6Uew1JbO8BjSE_-aRljOe82HT2MrQQ&s)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---

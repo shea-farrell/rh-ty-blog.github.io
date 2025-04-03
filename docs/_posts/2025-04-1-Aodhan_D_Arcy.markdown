@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aodhán's Blog"
-date:   2025-02-5 12:55:15 +0100
+date:   2025-02-5 22:55:15 +0100
 categories: jekyll update
 ---
 
@@ -48,18 +48,12 @@ At the end of the day, we got set up on the laptops provided for us, and logged 
 ---
 
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
+![Red Hat Tys](https://content.instructables.com/F20/WNBK/KTFSUUBJ/F20WNBKKTFSUUBJ.png?auto=webp&fit=bounds&frame=1&height=1024&width=1024auto=webp&frame=1&height=150)
 
-**This is the text area where you can enter your blog details for Wednesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+* We had a presentation on the history of cloud computing.
+* We did some Cyberskills workshops, such as 'How to solve a murder'.
+* We received a talk on college life and the Leaving Cert from the interns.
+* At the end of the day, we had an activity on building a rollercoaster, which combined our critical thinking skills with our communication and teamwork skills.
 
 ---
 

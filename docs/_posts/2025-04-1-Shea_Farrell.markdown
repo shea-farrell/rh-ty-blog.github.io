@@ -89,7 +89,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
 
 **This is the text area where you can enter your blog details for Thursday**.
-
+today we strated off by doing our stand up about wednesday and what we did during the day then we got to sit it on a town hall meeting and listen to what was happening in red hat, then we learned about AI and how it works and th history of it then we did bash on terminal and played pacman and had to get the ghosts into jail then after lunch we did a rain garden project and had to make a presentation to show everyone and present it to them, then to end the day i typed up my blog for thursday.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 

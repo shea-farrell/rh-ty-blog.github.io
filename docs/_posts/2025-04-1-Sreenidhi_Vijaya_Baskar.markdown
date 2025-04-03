@@ -35,17 +35,17 @@ Overall, my first day in Red Hat was very fun. I had a great time.
 
 ---
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+![Red Hat](ttps://allvectorlogo.com/img/2021/12/github-logo-vecthor.png)
 
-**This is the text area where you can enter your blog details for Tuesday**.
+Today we started the day with a stand up telling everyone what we did the day before. This helped me learn how companies like Red Hat work efficiently on a team as each person has to give an update on what they did the day before and their progress so far.  We learned about GitHub and created our own accounts to login and write up daily blogs for the week. We wrote our first blog today on all the things we did on Monday.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Afterwards, we learned how to code with Python. This was interesting because although I have already used Python before I got the chance to expand my coding skills. The workshop was clear and easy to follow and I had a great time coding again. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Next, we did a cybersecurity lesson: "How to Crack One Million Passwords." This was great way to learn about the importance of having a good password. The more passwords I cracked the more longer I had to wait for the results. I never finished the lesson as the wait time for 1 million passwords was simply too long. However, it was enjoyable and easy to code.
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+Overall, today was a great day and I am looking forward for the rest of the week.
+
+![Red Hat](https://cdn.hashnode.com/res/hashnode/image/upload/v1637422966499/jx6h36yHp.jpeg)
 
 
 ---
@@ -57,18 +57,15 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ---
 
 
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
+![Red Hat Tys](https://scopeblog.stanford.edu/wp-content/uploads/2023/06/AdobeStock_337352569-scaled.jpeg)
 
-**This is the text area where you can enter your blog details for Wednesday**.
+This morning we started off with our stand up with Jennefer as ususal. Then we wrote our blogs for Tuesday. Doing the blogs is great because it lets s recall what happened the previous day and is a fantastic way to remember the week. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After our blogs we listened to a talk about Cloud Computing from James. He talked about what it was, the history of computers and how muhc things have changed, as well as recent things like AI and what is yet to come in the future. We also learned about the type of jobs we can do if we work in acompany like Red Hat. 
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
+Afterwards we did lessons of our own choice from cybersecurity. I tried something new and something I had done and enjoyed before: "How to Steal a Pizza."
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
+Lastly, we were given and hour and a half to build our own rollercoasters with papercups, duck tape, and paper straws. This was a part of Agile and was so fun as we had to create a loop. My team's roller coaster won in the end but overallit was an excellent task to be communicative and creative. I had a great time building it.
 
 ---
 

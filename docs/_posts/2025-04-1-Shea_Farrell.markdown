@@ -67,7 +67,7 @@ Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapib
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
 **This is the text area where you can enter your blog details for Wednesday**.
-
+Today we started off by doing our stand up and talking about what we did on tuesday and then we typed up our blog for tuesday as well, then we learned about the history of cloud computers and how it came about, then to end the day we did a team building excercise by trying to build a rollercoaster out of only a few items and it didnt go great for my group.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
 
 * Mauris laoreet fermentum ante, non pulvinar lectus. 

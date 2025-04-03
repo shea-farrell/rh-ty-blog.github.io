@@ -52,18 +52,14 @@ We learned how to print the phrase 'Hello World' and our name. We also made a ro
 
 ---
 
-
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
-**This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+Wednesday was my third day at Red Hat. We started the day with the stand-up and then we wrote our Tuesday blog. We then got a talk on cloud computing from James. He spoke about cloud computing, tech in the past, present and future and about the different jobs in Red Hat. After that we worked on our cybersecurity skills. I did the 'How to solve a murder' one and the encryption one. After lunch we had to make a rollercoaster with a loop out of paper straws, paper cups and tape. Our rollercoaster actually managed to loop a couple times. This activity was really fun and wedeveloped some teamwork skills. Overall today was one of the best days so far and I'm looking forward to the rest of the week.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+
+
 
 
 ---

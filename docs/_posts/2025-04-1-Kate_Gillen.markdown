@@ -66,6 +66,17 @@ Overall the day was a great learning experience and I loved doing new things.
 
 ## Wednesday
 
+Now i am halfway done my workexperience at Redhat and i have had alot of fun and have meet so many new people. I arrived in at 9:10 am and we began the day recaping on what we had done trhe previous day. 
+
+Then we had a talk on the history of computors which was very interesting.
+
+Then we began writing our blogs on Github about Tuesday and wrote what we did and learned for that day. After that we had a short break were I got a tea the coffee macheine which is fantastic by the way. 
+
+We continued with our password cracking activities on Cyber Skills and i compleated 2 activities (Rob the bank + pizza cracking).
+
+The best part of the day was when we made a rollercoaster and we had to make a loop throughout the track and my group consisted of 2 other girls Ruby and Kate but unfoutunatly our rollercoaster diddnt work.
+
+Overall today was productive and I learned alot.
 
 ---
 
@@ -73,14 +84,6 @@ Overall the day was a great learning experience and I loved doing new things.
 ![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
 
 **This is the text area where you can enter your blog details for Wednesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---

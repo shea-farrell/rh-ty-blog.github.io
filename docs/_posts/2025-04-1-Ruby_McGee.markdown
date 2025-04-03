@@ -74,13 +74,8 @@ In conclusion, Tuesday was a really enjoyable and practical day, I feel confiden
 
 **This is the text area where you can enter your blog details for Wednesday**.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+After our standup and Tuesday blog update, James came into the boardroom and gave us a talk about the history of computing, cloud computing, data centres and more. We learned about different careers within Redhat-esque companies, and thought about the future of computing and what a future software engineer could look like. After that, we spoke to the interns about college life, leaving cert subjects, points systems, and navigating college in  general. After lunch, we split into teams and each had the task to build a functional rollercoaster with a loop out of paper straws, paper cups and duct tape (unfortunately, my team did not succeed). After we were pronounced the losers, the day came to an end.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 
 ---
